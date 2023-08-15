@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.173" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Change button color" name="Verify that clicking changes button color" time="0.021">
+<failure/>
+<system-out><![CDATA[
+Given I am on the home page.................................................undefined
+]]></system-out>
+</testcase>
+</testsuite>
