@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="0.173" tests="1" skipped="0" failures="1" errors="0">
-<testcase classname="Change button color" name="Verify that clicking changes button color" time="0.021">
-<failure/>
+<testsuite name="Cucumber" time="3.53" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Change button color" name="Verify that clicking changes button color" time="3.379">
 <system-out><![CDATA[
-Given I am on the home page.................................................undefined
+Given I am on the home page.................................................passed
 ]]></system-out>
 </testcase>
 </testsuite>
