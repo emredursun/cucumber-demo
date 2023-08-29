@@ -1,8 +1,8 @@
-package stepdefinitions.ui;
+package stepdefinitions.ui.uitestingplayground;
 
 import io.cucumber.java.en.Given;
-import pages.BasePage;
-import pages.HomePage;
+import pages.uitestingplayground.BasePage;
+import pages.uitestingplayground.HomePage;
 
 public class BasePageSteps {
 
@@ -13,4 +13,5 @@ public class BasePageSteps {
     public void i_am_on_the_home_page() {
         homePage.clickLinkWithText("Home");
     }
+
 }

@@ -1,4 +1,4 @@
-package pages;
+package pages.uitestingplayground;
 
 
 import org.openqa.selenium.By;
